@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/GitProject"
+		},
+		{
+			"path": "../../../SWipess-main/SWipess-main"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SWipess-main"
+	}
+}
